@@ -1,4 +1,3 @@
-```text
 # Personal Finance Dashboard
 
 A responsive personal finance dashboard designed to help young professionals track, understand, and improve their financial habits through a clean and intuitive interface.
@@ -7,69 +6,83 @@ A responsive personal finance dashboard designed to help young professionals tra
 
 ## Overview
 
-This project focuses on simplifying financial management by presenting key information in a structured and visually clear manner.
+Managing personal finances should be simple and efficient.
+
+This dashboard transforms complex financial data into structured, easy-to-understand insights, enabling better decision-making and financial awareness.
 
 ---
 
 ## Problem Statement
 
-Many users find financial tools overwhelming due to complexity and poor information design.
+Many financial tools are difficult to use due to:
 
-This application provides:
-- Clear financial overview  
-- Spending insights  
-- Goal tracking  
-- Financial health evaluation  
+* Poor user interface design
+* Information overload
+* Lack of actionable insights
+
+This application addresses these challenges by providing:
+
+* A clear financial overview
+* Visual spending insights
+* Goal-based tracking
+* Financial health evaluation
 
 ---
 
 ## Features
 
-Dashboard
-- Total balance, income, and expenses
-- Monthly spending visualization
-- Quick insights
+### Dashboard
 
-Transactions
-- Transaction listing
-- Category-based structure
-- Search functionality
+* Total balance, income, and expenses overview
+* Monthly spending visualization
+* Quick insights
 
-Insights
-- Income vs expense trends
-- Weekly analytics
-- Behavioral insights
+### Transactions
 
-Goals
-- Multiple savings goals
-- Progress tracking
-- Visual indicators
+* Transaction listing
+* Category-based organization
+* Search functionality
 
-Financial Health
-- Health score system
-- Spending and savings analysis
-- Improvement suggestions
+### Insights
+
+* Income vs expense trends
+* Weekly analytics
+* Behavioral insights
+
+### Goals
+
+* Multiple savings goals
+* Progress tracking
+* Visual indicators
+
+### Financial Health
+
+* Health score system
+* Spending and savings analysis
+* Improvement suggestions
 
 ---
 
 ## Tech Stack
 
-React  
-Tailwind CSS  
-Recharts  
-React Router  
-Lucide Icons  
+React
+Tailwind CSS
+Recharts
+React Router
+Lucide React
 
 ---
 
 ## Project Structure
 
+```plaintext
 src/
 │
 ├── assets/
 ├── components/
 │   ├── charts/
 │   ├── layout/
+│
 ├── pages/
 │   ├── Home.jsx
 │   ├── Dashboard.jsx
@@ -81,19 +94,36 @@ src/
 ├── App.jsx
 ├── main.jsx
 ├── index.css
+```
 
 ---
 
 ## Setup
 
-git clone <repo>  
-cd finance-dashboard  
-npm install  
-npm run dev  
+```bash
+git clone <your-repo-link>
+cd finance-dashboard
+npm install
+npm run dev
+```
+
+---
+
+## Screenshots
+
+Add screenshots of the application here to improve readability and showcase the interface.
+
+---
+
+## Future Improvements
+
+* Backend integration using MongoDB or Firebase
+* User authentication system
+* Real-time financial tracking
+* AI-based financial recommendations
 
 ---
 
 ## Author
 
 Aditya Khamait
-```
