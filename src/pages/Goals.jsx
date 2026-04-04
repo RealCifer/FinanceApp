@@ -44,6 +44,18 @@ const goals = [
     color: "bg-rose-500",
   },
   {
+    title: "New Car",
+    saved: 8500,
+    total: 25000,
+    color: "bg-purple-500",
+  },
+  {
+    title: "Online Course",
+    saved: 1650,
+    total: 2000,
+    color: "bg-orange-500",
+  },
+  {
     title: "Investment Portfolio",
     saved: 9500,
     total: 20000,
