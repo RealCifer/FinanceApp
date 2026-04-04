@@ -8,7 +8,7 @@ function Dashboard() {
 
         <div className="pt-6 mb-6">
           <p className="text-gray-400 text-sm">Good morning,</p>
-          <h1 className="text-2xl md:text-3xl font-semibold">Zoryvn</h1>
+          <h1 className="text-2xl md:text-3xl font-semibold">Zoryvn UI/UX</h1>
         </div>
 
         <div className="relative bg-gradient-to-br from-purple-600 via-indigo-600 to-blue-600 text-white p-6 rounded-3xl shadow-xl mb-6 overflow-hidden transition-all duration-300 hover:scale-[1.01]">
