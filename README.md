@@ -1,4 +1,4 @@
-```md
+```text
 # Personal Finance Dashboard
 
 A responsive personal finance dashboard designed to help young professionals track, understand, and improve their financial habits through a clean and intuitive interface.
@@ -7,7 +7,7 @@ A responsive personal finance dashboard designed to help young professionals tra
 
 ## Overview
 
-This project focuses on simplifying financial management by presenting key information in a structured and visually clear manner. It emphasizes usability, responsiveness, and meaningful data representation.
+This project focuses on simplifying financial management by presenting key information in a structured and visually clear manner.
 
 ---
 
@@ -52,17 +52,6 @@ Financial Health
 
 ---
 
-## Unique Feature
-
-Financial Health Score
-
-A simplified system that evaluates:
-- Spending habits
-- Savings consistency
-- Financial stability
-
----
-
 ## Tech Stack
 
 React  
@@ -78,17 +67,9 @@ Lucide Icons
 src/
 │
 ├── assets/
-│   └── icons/
-│
 ├── components/
 │   ├── charts/
-│   │   ├── BarChart.jsx
-│   │   ├── LineChart.jsx
-│   │   ├── DonutChart.jsx
-│   │
 │   ├── layout/
-│   │   └── BottomNav.jsx
-│
 ├── pages/
 │   ├── Home.jsx
 │   ├── Dashboard.jsx
@@ -103,47 +84,12 @@ src/
 
 ---
 
-## Responsiveness
+## Setup
 
-- Mobile optimized layout  
-- Tablet adaptive grid  
-- Desktop scalable UI  
-
----
-
-## Design Approach
-
-- Minimal and clean interface  
-- Consistent spacing  
-- Responsive layout system  
-- Smooth interactions  
-
----
-
-## Setup Instructions
-
-git clone <your-repository-link>  
+git clone <repo>  
 cd finance-dashboard  
 npm install  
 npm run dev  
-
----
-
-## Key Highlights
-
-- Focus on clarity and usability  
-- Modular component structure  
-- Real-world product design approach  
-
----
-
-## Future Improvements
-
-- Filtering and sorting  
-- Backend integration  
-- Authentication  
-- Export functionality  
-- Theme toggle  
 
 ---
 
