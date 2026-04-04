@@ -126,4 +126,4 @@ Add screenshots of the application here to improve readability and showcase the 
 
 ## Author
 
-Aditya Khamait
+Aditya Khamait - adityakhamait12@gmail.com
