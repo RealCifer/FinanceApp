@@ -8,7 +8,7 @@ function Home() {
       <div className="w-full max-w-6xl px-6 flex flex-col items-center justify-center text-white text-center">
 
         <h1 className="text-4xl md:text-5xl font-bold mb-4 leading-tight">
-          Take Control of Your Finances
+          Take Control of Your Finances Goals
         </h1>
 
         <p className="text-white/80 mb-8 max-w-xl text-sm md:text-base">
