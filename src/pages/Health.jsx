@@ -48,9 +48,9 @@ function Health() {
             </p>
 
             <div className="mt-4 space-y-2 text-sm">
-              <p>💰 Savings Rate: 51%</p>
-              <p>📉 Expenses Trend: Decreasing</p>
-              <p>📊 Stability: Good</p>
+              <p>Savings Rate: 51%</p>
+              <p>Expenses Trend: Decreasing</p>
+              <p>Stability: Good</p>
             </div>
           </div>
 
