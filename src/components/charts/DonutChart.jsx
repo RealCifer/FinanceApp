@@ -4,6 +4,7 @@ const data = [
   { name: "Food", value: 450 },
   { name: "Shopping", value: 320 },
   { name: "Transport", value: 180 },
+  { name: "Travel", value: 120 },
   { name: "Bills", value: 280 },
 ];
 
