@@ -21,7 +21,7 @@ function Insights() {
 
           <div className="bg-gradient-to-br from-pink-500 to-red-500 text-white p-5 rounded-2xl shadow-md transition-all duration-300 hover:scale-[1.02]">
             <p className="text-sm opacity-80">Avg. Expenses</p>
-            <h2 className="text-xl md:text-2xl font-bold mt-1">$4,028</h2>
+            <h2 className="text-xl md:text-2xl font-bold mt-1">$4,029</h2>
             <p className="text-xs opacity-70 mt-1">-3% from last month</p>
           </div>
 
