@@ -29,7 +29,7 @@ const transactions = [
    {
     name: "Starbucks",
     category: "Coffee",
-    amount: "-$8.50",
+    amount: "$8.50",
     color: "bg-orange-500",
   },
    {
@@ -37,6 +37,12 @@ const transactions = [
     category: "Coffee",
     amount: "-$8.50",
     color: "bg-orange-500",
+  },
+   {
+    name: "Whole Foods Market",
+    category: "Food",
+    amount: "-$52.40",
+    color: "bg-green-500",
   },
   {
     name: "Salary Deposit",
