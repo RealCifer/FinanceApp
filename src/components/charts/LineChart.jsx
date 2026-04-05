@@ -14,6 +14,8 @@ const data = [
   { day: "Fri", value: 400 },
   { day: "Sat", value: 500 },
   { day: "Sun", value: 250 },
+  { day: "Mon", value: 200 },
+
 ];
 
 function CustomTooltip({ active, payload }) {
