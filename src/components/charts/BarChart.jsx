@@ -13,6 +13,7 @@ const data = [
   { name: "Dec", income: 5000, expenses: 3000 },
   { name: "Jan", income: 4500, expenses: 2800 },
   { name: "Feb", income: 5200, expenses: 3200 },
+  { name: "Nov", income: 3000, expenses: 2000 },
   { name: "Mar", income: 4800, expenses: 2900 },
 ];
 
